@@ -1,0 +1,150 @@
+/*! CSS Used from: Embedded */
+a,div{padding:0;margin:0;border:0;outline:0;vertical-align:baseline;background:0 0;text-decoration:none;}
+a,a:visited{text-decoration:none;}
+/*.clearfix{clear:both;} */
+a{color:var(--main-color);}
+.post-body a{color:var(--main-color);}
+.post-body a:hover{text-decoration:underline;}
+/*! CSS Used from: Embedded */
+@media screen{
+div,a{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline;}
+a:focus{outline:thin dotted;}
+a:active,a:hover{outline:0;}
+a{tap-highlight-color:transparent;text-decoration:none;}
+a{cursor:pointer;}
+*{box-sizing:border-box;}
+body:not(.show-focus-outlines) a:focus{outline:none;}
+}
+@media all{
+a{color:#279FC9;}
+.viewport-padding{padding-left:6px;padding-right:6px;}
+@media screen and (min-width: 500px) and (min-height: 300px){
+.viewport-padding{padding-left:10px;padding-right:10px;}
+}
+@media screen and (min-width: 769px){
+.viewport-padding{padding-left:22px;padding-right:22px;}
+}
+}
+@media screen{
+div,a{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline;}
+a:focus{outline:thin dotted;}
+a:active,a:hover{outline:0;}
+a{tap-highlight-color:transparent;text-decoration:none;}
+a{cursor:pointer;}
+.bicon-color-accounting{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 0;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-accounting{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 0;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-algebra{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -44px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-algebra{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -44px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-physiology{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -792px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-physiology{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -792px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-art-history{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -88px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-art-history{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -88px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-biology{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -132px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-biology{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -132px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-business{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -176px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-business{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -176px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-calculus{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -220px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-calculus{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -220px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-chemistry{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -264px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-chemistry{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -264px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-communications{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -308px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-communications{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -308px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-economics{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -396px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-economics{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -396px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-finance{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -484px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-finance{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -484px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-u-s-history{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -1012px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-u-s-history{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -1012px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-world-history{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -1056px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-world-history{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -1056px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-management{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -528px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-management{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -528px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-marketing{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -572px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-marketing{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -572px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-microbiology{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -616px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-microbiology{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -616px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-physics{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -748px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-physics{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -748px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-political-science{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -836px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-political-science{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -836px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-psychology{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -880px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-psychology{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -880px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-sociology{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -924px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-sociology{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -924px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-writing{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -1100px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-writing{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -1100px;height:44px;width:48px;background-size:48px, auto;}
+}
+.bicon-color-statistics{background-repeat:no-repeat;background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-s3689f8b2b3-1fe9ca1a7c920a449ba45b47033dd8dd.png);background-position:0 -968px;height:44px;width:48px;background-size:auto;}
+@media (-webkit-min-device-pixel-ratio: 1.5), (min-device-pixel-ratio: 1.5){
+.bicon-color-statistics{background-image:url(https://web.archive.org/web/20170902205836im_/https://boundless-production.boundless-cdn.com/assets/app/icons/subjects-small-retina-se4ea429ac9-e34926fe4da130ad9d0509eac219ad5e.png);background-position:0 -968px;height:44px;width:48px;background-size:48px, auto;}
+}
+*{box-sizing:border-box;}
+.clearfix{overflow:visible;*zoom:1;}
+.clearfix:before,.clearfix:after{display:table;content:"";line-height:0;}
+/*.clearfix:after{clear:both;}*/
+body:not(.show-focus-outlines) a:focus{outline:none;}
+}
+@media all{
+a{color:#279FC9;}
+.bcp__subjects-list{margin:0 auto 40px;max-width:965px;}
+.bcp__subjects-list .bcp__subjects-list__item__wrap{margin:8px 0;}
+@media screen and (min-width: 500px) and (min-height: 300px){
+.bcp__subjects-list .bcp__subjects-list__item__wrap{float:left;width:48%;margin-left:1%;margin-right:1%;}
+}
+@media screen and (min-width: 769px){
+.bcp__subjects-list .bcp__subjects-list__item__wrap{width:31%;margin-left:1%;margin-right:1%;}
+.bcp__subjects-list .bcp__subjects-list__item__wrap:nth-child(3n+2){margin-left:1.5%;margin-right:1.5%;}
+}
+.bcp__subjects-list .bcp__subjects-list__item__wrap .bcp__subjects-list__item{border:1px solid #ddd;border-radius:6px;position:relative;height:64px;}
+.bcp__subjects-list .bcp__subjects-list__item__wrap .bcp__subjects-list__item .bcp__subjects-list__item__icon{position:absolute;margin:8px;top:0;left:0;}
+.bcp__subjects-list .bcp__subjects-list__item__wrap .bcp__subjects-list__item .bcp__subjects-list__item__label{margin-bottom:0;margin-left:66px;margin-top:20px;text-align:left;}
+.viewport-padding{padding-left:6px;padding-right:6px;}
+@media screen and (min-width: 500px) and (min-height: 300px){
+.viewport-padding{padding-left:10px;padding-right:10px;}
+}
+@media screen and (min-width: 769px){
+.viewport-padding{padding-left:22px;padding-right:22px;}
+}
+.marketing-inner-content-max-width{max-width:960px;margin:0 auto;}
+}

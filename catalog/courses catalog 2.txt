@@ -1,0 +1,535 @@
+<html>
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel='stylesheet' href='css/book-info.css' type='text/css' media='all' />
+
+<!--
+<link rel='stylesheet' id='book-info-fonts-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700%7COswald%3A300%2C400%2C700&#038;ver=4.9.8' type='text/css' media='all' />
+
+
+<link rel='stylesheet' id='pressbooks/webfonts-css'  href='https://fonts.googleapis.com/css?family=Oswald|Open+Sans+Condensed:300,300italic&#038;subset=latin,cyrillic,greek,cyrillic-ext,greek-ext' type='text/css' media='all' />
+
+-->
+
+<link rel='stylesheet' href='css/structure.css' type='text/css' media='screen, print' />
+
+<link rel='stylesheet' href='css/style.css' type='text/css' media='screen, print' />
+
+<!--
+<link rel='stylesheet' id='pressbooks/a11y-css'  href='https://courses.lumenlearning.com/boundless-accounting/wp-content/themes/pressbooks-book/dist/styles/a11y.css?id=67ce4802af40e4fea4f2' type='text/css' media='screen' />
+-->
+
+<script type='text/javascript' src='js/jquery.js'></script>
+
+
+<!--
+<script type='text/javascript' src='https://courses.lumenlearning.com/boundless-accounting/wp-content/themes/bombadil/assets/js/iframe-resizer.js?ver=4.9.8'></script>
+
+<script type='text/javascript' src='https://courses.lumenlearning.com/boundless-accounting/wp-content/themes/bombadil/assets/js/h5p-resizer.js?ver=4.9.8'></script>
+
+-->
+
+<script async type='text/javascript' src='js/columnizer.js'></script>
+
+
+</head>
+
+<body class="home singular page-template-default page page-id-9" itemscope="" itemtype="http://schema.org/Book" itemref="about alternativeHeadline author copyrightHolder copyrightYear datePublished description editor image inLanguage keywords publisher" data-gr-c-s-loaded="true" style=""><div id="MathJax_Message" style="display: none;"></div>
+
+		
+		<!-- table of contents -->
+		
+			<!-- header logo -->
+			
+			<!-- home page wrap -->
+<div class="book-info-container" style="background-color: #007FAB">
+
+		<!-- content page -->
+		
+<section id="post-9" class="top-block clearfix home-post post-9 page type-page status-publish hentry focusable" tabindex="-1">
+
+			<div class="log-wrap">	<!-- Login/Logout -->
+									<a href="https://courses.lumenlearning.com/boundless-algebra/wp-login.php?redirect_to=https%3A%2F%2Fcourses.lumenlearning.com%2Fboundless-algebra%2F" class="">login</a>
+							</div>
+
+	<div class="book-info">
+		<!-- Book Title -->
+		<h1 class="entry-title"><a href="https://courses.lumenlearning.com/boundless-algebra/" title="Boundless Algebra" rel="home">Boundless Algebra</a></h1>
+
+		
+		
+			</div> <!-- end .book-info -->
+
+			<div class="book-cover">
+
+			<img src="https://courses.lumenlearning.com/boundless-algebra/wp-content/uploads/sites/1861/2017/06/StockSnap_GQ1ZPF01BL.jpg" alt="book-cover" title="Boundless Algebra book cover">
+
+		</div>
+	
+</section> <!-- end .top-block -->
+</div>
+
+<div class="row">
+			<section class="second-block-wrap focusable" tabindex="-1">
+				<div class="second-block clearfix">
+				<h2>Table of Contents</h2>
+									<ul class="table-of-content" id="table-of-content"><div class="first last column " style="width:100%; float: left;">
+						<li>
+							<ul class="front-matter">
+																								<li class="front-matter miscellaneous"><a href="https://courses.lumenlearning.com/boundless-algebra/front-matter/about-this-boundless-course/">About Boundless Courses</a>
+														</li>
+																								<li class="front-matter miscellaneous"><a href="https://courses.lumenlearning.com/boundless-algebra/front-matter/accessing-instructor-resources/">Faculty Resources Overview</a>
+														</li>
+																								<li class="front-matter miscellaneous"><a href="https://courses.lumenlearning.com/boundless-algebra/front-matter/download-epub-for-offline-use/">Download EPUB for Offline Use</a>
+														</li>
+																								<li class="front-matter miscellaneous"><a href="https://courses.lumenlearning.com/boundless-algebra/front-matter/download-quiz-files/">Download Quiz Files</a>
+														</li>
+																								<li class="front-matter miscellaneous"><a href="https://courses.lumenlearning.com/boundless-algebra/front-matter/download-lecture-slides/">Download Lecture Slides</a>
+														</li>
+															</ul>
+						</li>
+														<li><h4>														Numbers and Operations														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-arithmetic-operations/">Introduction to Arithmetic Operations</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/properties-of-real-numbers/">Properties of Real Numbers</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/basic-applications-of-arithmetic-operations/">Basic Applications of Arithmetic Operations</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/radicals/">Radicals</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/further-exponents/">Further Exponents</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Introduction to Equations, Inequalities, and Graphing														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/variables-and-expressions/">Variables and Expressions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-equations/">Introduction to Equations</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/inequalities/">Inequalities</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/graphing-and-equations-of-two-variables/">Graphing and Equations of Two Variables</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Systems of Equations														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/systems-of-equations-in-two-variables/">Systems of Equations in Two Variables</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/systems-of-equations-in-three-variables/">Systems of Equations in Three Variables</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/systems-of-inequalities-and-linear-programming/">Systems of Inequalities and Linear Programming</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Functions														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-functions/">Introduction to Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/domain-and-range/">Domain and Range</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/properties-of-functions/">Properties of Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/transformations/">Transformations</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Linear Functions														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-linear-functions/">Introduction to Linear Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/working-with-lines/">Working With Lines</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/applications-of-linear-functions/">Applications of Linear Functions</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Quadratic Functions and Factoring														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-quadratic-functions/">Introduction to Quadratic Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/graphs-of-quadratic-functions/">Graphs of Quadratic Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/factoring/">Factoring</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/applications-of-quadratic-functions/">Applications of Quadratic Functions</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Polynomials and Rational Functions														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-polynomials/">Introduction to Polynomials</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/graphing-polynomial-functions/">Graphing Polynomial Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/polynomial-division/">Polynomial Division</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/zeroes-of-polynomial-functions/">Zeroes of Polynomial Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/rational-functions/">Rational Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/inequalities-with-polynomial-and-rational-functions/">Inequalities With Polynomial and Rational Functions</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Exponents, Logarithms, and Inverse Functions														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/inverse-and-composite-functions/">Inverse and Composite Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-exponents-and-logarithms/">Introduction to Exponents and Logarithms</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/graphs-of-exponential-and-logarithmic-functions/">Graphs of Exponential and Logarithmic Functions</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/working-with-logarithms/">Working With Logarithms</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/the-real-number-e/">The Real Number e</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/applications-of-exponential-and-logarithmic-functions/">Applications of Exponential and Logarithmic Functions</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Matrices														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-matrices/">Introduction to Matrices</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/using-matrices-to-solve-systems-of-equations/">Using Matrices to Solve Systems of Equations</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/inverses-of-matrices/">Inverses of Matrices</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/determinants-and-cramers-rule/">Determinants and Cramer's Rule</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Trigonometry														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/trigonometry-and-right-triangles/">Trigonometry and Right Triangles</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/trigonometric-functions-and-the-unit-circle/">Trigonometric Functions and the Unit Circle</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/trigonometric-identities/">Trigonometric Identities</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Conic Sections														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/introduction-to-conic-sections/">Introduction to Conic Sections</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/the-parabola/">The Parabola</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/the-circle-and-the-ellipse/">The Circle and the Ellipse</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/the-hyperbola/">The Hyperbola</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/nonlinear-systems-of-equations-and-inequalities/">Nonlinear Systems of Equations and Inequalities</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Sequences and Series														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/sequences-and-series/">Sequences and Series</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/arithmetic-sequences-and-series/">Arithmetic Sequences and Series</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/geometric-sequences-and-series/">Geometric Sequences and Series</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/mathematical-inductions/">Mathematical Inductions</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Combinatorics and Probability														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/combinatorics/">Combinatorics</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/the-binomial-theorem/">The Binomial Theorem</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/probability/">Probability</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4>														Complex Numbers and Polar Coordinates														</h4></li>
+							<li>
+								<ul>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/the-polar-coordinate-system/">The Polar Coordinate System</a>
+
+																</li>
+																			
+											<li class="chapter standard">
+												<a href="https://courses.lumenlearning.com/boundless-algebra/chapter/complex-numbers/">Complex Numbers</a>
+
+																</li>
+																	</ul>
+							</li>
+														<li><h4><!-- Back-matter --></h4></li>
+							<li>
+								<ul class="back-matter">
+																	</ul>
+							</li>
+					</div></ul><!-- end #toc -->
+
+				</div><!-- end .second-block -->
+			</section> <!-- end .second-block -->
+</div>
+<!-- end .row -->
+<section class="third-block-wrap focusable" tabindex="-1">
+
+	<div class="third-block clearfix">
+		<div class="description-book-info">
+						<h2>
+				Copyright			</h2>
+
+			<p class="copyright-text">
+				This courseware includes resources copyrighted and openly licensed by
+				multiple individuals and organizations. Click the words "Licenses and
+				Attributions" at the bottom of each page for copyright and licensing
+				information specific to the material on that page. If you believe that
+				this courseware violates your copyright,
+				please <a target="_blank" href="http://lumenlearning.com/copyright/">contact us</a>.
+			</p>
+
+							<p class="copyright-text">
+					
+					Cover Image:
+
+											"Math Notebook."
+					
+					
+											Provided by: PxHere.
+					
+											Located at: <a target="_blank" href="https://pxhere.com/en/photo/926037">https://pxhere.com/en/photo/926037</a>.
+					
+					
+											Content Type: CC Licensed Content, Shared Previously.
+					
+											License: <a target="_blank" href="https://creativecommons.org/about/cc0">CC0: No Rights Reserved</a>.
+					
+									</p>
+			
+			<h2>
+				Lumen Learning			</h2>
+
+			<p class="about-text">
+				Lumen Learning provides a simple, supported path for faculty members to
+				adopt and teach effectively with open educational resources (OER).
+				<a target="_blank" href="http://lumenlearning.com/open-courses-overview/">Read more</a> about what we do.
+			</p>
+
+		</div>
+
+		
+		<div class="author-book-info">
+
+					</div>
+	</div><!-- end .secondary-block -->
+</section>
+<!-- end .secondary-block -->
+
+
+	<!-- #content -->
+
+<div class="footer" style="background: #007fab">
+	<div class="inner">
+		<!-- logo options -->
+									<img class="lumen-footer-logo" src="images/logo.png" alt="Slashbull Education" />
+						</div><!-- #inner -->
+</div><!-- #footer -->
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thePost = {"id":"9"};
+/* ]]> */
+</script>
+
+
+<script>if (typeof sendIframeResize === "function") { sendIframeResize(); }</script>
+
+</body>
+</html>s
